@@ -152,7 +152,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void startSinglePlayerGame (View v) {
-        startActivity(new Intent(this, GameActivity.class));
+        startActivity(new Intent(this, CategoriesActivity.class));
     }
     public void startMultiPlayerGame(View v){
         startActivity(new Intent(this, MultiplayerActivity.class));

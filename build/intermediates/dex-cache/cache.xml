@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yudhvirraj/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/yudhvirraj/Documents/Projects/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_c3669df088d01ab054e4bee5fa5ac5c141dae02f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yudhvirraj/.android/build-cache/05fdba990f28d647630e79d268e55700f1120aa3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/yudhvirraj/Documents/Projects/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c76b452e183a03951b1d1a488f36718bc18489e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yudhvirraj/.android/build-cache/9e3dae65e5b837303c06d8e252d110cf83759b87/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/yudhvirraj/Documents/Projects/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ce3b7be8e3aa07a8240324096c2275139033455/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yudhvirraj/.android/build-cache/bc63072dd50b3e71f89a31527059b0e50fe4f6e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/yudhvirraj/Documents/Projects/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb11a22c5efb5f5b84d85888ffc2c06493ffe9b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yudhvirraj/.android/build-cache/20bfb2570566cbf74d2db568fc4506d48ae6848f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/yudhvirraj/Documents/Projects/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8af55a297d17c51e743977deec1d9a638ce8240/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yudhvirraj/.android/build-cache/ec98b977b7fde2baae2b8d081a0cb352dadae7fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yudhvirraj/Documents/Projects/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cea28098be65391a17185e5392a8fcc614501875/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yudhvirraj/Documents/Projects/Hangman/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yudhvirraj/Documents/Projects/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f1bce9a37333c31dc3e3c6a8f8eb85e8e61b3fda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yudhvirraj/.android/build-cache/8f5c2a48655b9fdb37c78f8cae794ef314500d40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/yudhvirraj/Documents/Projects/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c1796412a7e310e46a86889c479c7d068ec4e3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yudhvirraj/.android/build-cache/af89b772270041e0673caa9d4aebedbcfb96f115/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/yudhvirraj/Documents/Projects/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c978aa187d4c13affb60fec781841e48c44d6f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yudhvirraj/.android/build-cache/3c89aea75b4b5487dca266493dd2342e11cb201e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/yudhvirraj/Documents/Projects/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7039ba8dc2384293b5fd195cffceb3d25603532/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yudhvirraj/Documents/Projects/Hangman/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5992107fea09c8c9941883ed9bc0fea61d8acade">
+        <dex dex="/Users/yudhvirraj/Documents/Projects/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c8a9665f50e2d0be3696a8d4e4681841d54bec98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yudhvirraj/.android/build-cache/ee3a107a94410a8f30562f83ec507ff113a1f7ad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/yudhvirraj/Documents/Projects/Hangman/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7cd9572e09358dfc06da9d715b155f9621d7f536/classes.dex" />
+    </item>
+
+</items>

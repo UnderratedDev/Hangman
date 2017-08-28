@@ -54,7 +54,7 @@ public class GameActivity extends AppCompatActivity {
     /**
      * Checking if the letter introduced matches any letter in the word
      */
-    public void checkLetter(String introducedLetter){
+    public void checkLetter(String introducedLetter) {
         char charIntroduced = introducedLetter.charAt(0);
 
         for (Character c : guessedLetters)
